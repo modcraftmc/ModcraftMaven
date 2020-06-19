@@ -1,0 +1,1 @@
+mvn install:install-file -DgroupId=net.modcraftforge -DartifactId=eventbus -Dversion=2.2.4 -Dfile=eventbus-2.2.0-service.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
