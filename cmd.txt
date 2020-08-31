@@ -1,1 +1,1 @@
-mvn install:install-file -DgroupId=org.newdawn -DartifactId=slick -Dversion=1 -Dfile=slick.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
+mvn install:install-file -DgroupId=fr.modcraftmc -DartifactId=modcraftforge -Dversion=0.0.4 -Dfile=forge-1.15.2-31.3.0.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
