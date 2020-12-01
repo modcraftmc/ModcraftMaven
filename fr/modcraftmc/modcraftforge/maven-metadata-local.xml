@@ -3,12 +3,13 @@
   <groupId>fr.modcraftmc</groupId>
   <artifactId>modcraftforge</artifactId>
   <versioning>
-    <release>0.0.8</release>
+    <release>0.0.9</release>
     <versions>
       <version>0.0.6</version>
       <version>0.0.7</version>
       <version>0.0.8</version>
+      <version>0.0.9</version>
     </versions>
-    <lastUpdated>20201201202911</lastUpdated>
+    <lastUpdated>20201201204910</lastUpdated>
   </versioning>
 </metadata>
